@@ -1,0 +1,3 @@
+20230917	01:21:11	36a644ac-be93-4092-8b84-f1c746c2b25b	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
+20230917	01:21:23	3e0ee995-39c8-4cce-baa1-7ee589a77c0f	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
+20230917	01:23:20	c315e153-f28f-48e4-99f1-837b83f18812	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
